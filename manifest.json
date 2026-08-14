@@ -1,0 +1,23 @@
+{
+  "name": "Cahaya Travel Banyuwangi",
+  "short_name": "Cahaya Travel",
+  "description": "Terangi Setiap Perjalananmu — Travel Banyuwangi ke Jember, Malang, Surabaya, Bandara Juanda, Gresik & Bali.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0284C7",
+  "icons": [
+    {
+      "src": "assets/logo-icon-square.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/logo-icon-square.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
